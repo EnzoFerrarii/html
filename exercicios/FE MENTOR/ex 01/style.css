@@ -1,0 +1,81 @@
+
+body{
+    background-color: hsl(47, 88%, 63%);
+    
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+div{
+    width: 24rem;
+    height: 35rem;
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    border-radius: 20px;
+    margin-inline: auto;
+    box-shadow: 10px 10px ;
+    margin-top: 7rem;
+    
+    
+   
+   
+}
+div>img {
+    border-radius: 10px;
+    margin-inline: auto;
+    margin-top: 1.5rem;
+    
+}
+.image {
+    display: flex;
+    align-items: start;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+div>p{
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-bottom: 0px;
+    padding: 10px;
+    background-color: hsl(47, 88%, 63%);
+    border-radius: 4px;
+    font-weight: bolder;
+}
+section#sec1{
+    margin: 0px;
+    text-align: center;
+    align-items: start;
+    margin-left: 1.7rem;
+}
+h2{
+    font-size: 15px;
+    text-align: auto;
+}
+section#sec2{
+    height: 40px;
+}
+h1{
+    text-align: justify;
+    margin-left: 1.7rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+section#sec3 p{
+    font-size: 15px;
+    text-align: justify;
+    margin-top: 7px;
+    margin-left: 27px;
+    margin-right: 45px;
+    color: rgb(117, 117, 117);
+}
+section#avatar img {
+    width: 40px;
+    height: 40px;
+    margin-right: 15px;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    align-items: center;
+    display: flex;
+}
